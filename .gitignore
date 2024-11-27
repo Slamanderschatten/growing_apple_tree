@@ -1,0 +1,9 @@
+*.blend1
+*.blend2
+*.blend@
+*.tmp
+*.log
+# Default ignored files
+/shelf/
+/workspace.xml
+/.idea/workspace.xml
