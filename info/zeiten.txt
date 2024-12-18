@@ -1,0 +1,47 @@
+1 jahr 365 Tage
+6 jahre 2190 Tage
+gesammt 2221 Tage
+24 FPS
+1 Bild == 1 Tag
+
+
+zeitachse:
+
+0	31	Oktober		Apfel fällt
+31	30	November	Apfel verwittert
+61	121	Dezember	Winter
+...	[Jahr 1]
+182	214	Aprill		Wachsen beginnt
+...
+396	30	November	Winter beginnt & Bletter verwelken
+426	121	Dezember	Winter
+...	[Jahr 2]
+547	214	Aprill		Wachsen beginnt & Bletter wachsen
+...
+761	30	November	Winter beginnt & Bletter verwelken
+791	121	Dezember	Winter
+...	[Jahr 3]
+912	214	Aprill		Wachsen beginnt & Bletter wachsen
+...
+1126	30	November	Winter beginnt & Bletter verwelken
+1156	121	Dezember	Winter
+...	[Jahr 4]
+1277	214	Aprill		Wachsen beginnt & Bletter wachsen
+...
+1491	30	November	Winter beginnt & Bletter verwelken
+1521	121	Dezember	Winter
+...	[Jahr 5]
+1642	30	Aprill		Wachsen beginnt & Bletter wachsen
+1672	184	Mai		Wachsen & Blühen
+...
+1856	30	November	Winter beginnt & Bletter verwelken
+1886	121	Dezember	Winter
+...	[Jahr 6]
+2007	30	Aprill		Wachsen beginnt & Bletter wachsen
+2037	31	Mai		Wachsen & Blühen
+2068	30	Juni		Wachsen
+2098	31	Juli		Wachsen (Äpfel würden erscheinen)
+2129	31	August		Wachsen
+2160	30	September	Wachsen
+2190	31	Oktober		Wachsen (Äpfel würden fallen)
+2221	ENDE
