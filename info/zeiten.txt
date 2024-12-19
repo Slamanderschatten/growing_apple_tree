@@ -12,8 +12,8 @@ zeitachse:
 61	121	Dezember	Winter
 ...	[Jahr 1]
 182	214	Aprill		Wachsen beginnt
-...
-396	30	November	Winter beginnt & Bletter verwelken
+...	{15 frames für einen setzling abschnitt }
+396	30	November	Winter beginnt & Bletter verwelken {setzling komplett ausgefaltet}
 426	121	Dezember	Winter
 ...	[Jahr 2]
 547	214	Aprill		Wachsen beginnt & Bletter wachsen
