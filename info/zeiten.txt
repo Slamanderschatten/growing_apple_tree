@@ -27,7 +27,7 @@ zeitachse:
 1156	121	Dezember	Winter
 ...	[Jahr 4]
 1277	214	Aprill		Wachsen beginnt & Bletter wachsen
-...
+...									{1400: mesh wechsel}
 1491	30	November	Winter beginnt & Bletter verwelken
 1521	121	Dezember	Winter
 ...	[Jahr 5]
