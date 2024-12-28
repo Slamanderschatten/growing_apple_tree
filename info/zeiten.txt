@@ -40,8 +40,8 @@ zeitachse:
 2007	30	Aprill		Wachsen beginnt & Bletter wachsen
 2037	31	Mai		Wachsen & Blühen
 2068	30	Juni		Wachsen
-2098	31	Juli		Wachsen (Äpfel würden erscheinen)
+2098	31	Juli		Wachsen (Äpfel erscheinen)
 2129	31	August		Wachsen
 2160	30	September	Wachsen
-2190	31	Oktober		Wachsen (Äpfel würden fallen)
+2190	31	Oktober		Wachsen (Äpfel fallen)
 2221	ENDE
